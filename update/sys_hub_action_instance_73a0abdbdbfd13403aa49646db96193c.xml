@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Create Task">3f9b1ff1531003003bf1d9109ec58775</action_type>
+        <action_type_parent/>
+        <comment>Create incident for tracking user issue</comment>
+        <compiled_snapshot display_value="Create Task">2b3a6335531003003bf1d9109ec58759</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Report an outage flow">bcd75b93dbfd13403aa49646db9619fb</flow>
+        <order>4.2</order>
+        <parent_ui_id>1ffc1349-fa70-4d82-a3ea-26bcad0f7b4e</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>jake.burman</sys_created_by>
+        <sys_created_on>2018-05-06 16:56:48</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>73a0abdbdbfd13403aa49646db96193c</sys_id>
+        <sys_mod_count>54</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="K18 LAB0521 London example" source="x_snc_k18lab0521l">971f4f93dbbd13403aa49646db961918</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="K18 LAB0521 London example">971f4f93dbbd13403aa49646db961918</sys_scope>
+        <sys_update_name>sys_hub_action_instance_73a0abdbdbfd13403aa49646db96193c</sys_update_name>
+        <sys_updated_by>jake.burman</sys_updated_by>
+        <sys_updated_on>2018-05-08 00:14:28</sys_updated_on>
+        <ui_id>743c7088-4a38-4aa0-b3b7-74e29259329c</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=73a0abdbdbfd13403aa49646db96193c"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>73a0abdbdbfd13403aa49646db96193c</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>jake.burman</sys_created_by>
+        <sys_created_on>2018-05-06 16:56:48</sys_created_on>
+        <sys_id>08b0abdbdbfd13403aa49646db96195b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jake.burman</sys_updated_by>
+        <sys_updated_on>2018-05-06 16:56:48</sys_updated_on>
+        <value>incident</value>
+        <variable display_value="">957cdff1531003003bf1d9109ec58753</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>73a0abdbdbfd13403aa49646db96193c</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>jake.burman</sys_created_by>
+        <sys_created_on>2018-05-08 00:10:47</sys_created_on>
+        <sys_id>369d02f3db7993403aa49646db961916</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>jake.burman</sys_updated_by>
+        <sys_updated_on>2018-05-08 00:14:10</sys_updated_on>
+        <value/>
+        <variable display_value="">ed7cdff1531003003bf1d9109ec58762</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>73a0abdbdbfd13403aa49646db96193c</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>jake.burman</sys_created_by>
+        <sys_created_on>2018-05-07 23:15:46</sys_created_on>
+        <sys_id>49014633db3993403aa49646db96198e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>jake.burman</sys_updated_by>
+        <sys_updated_on>2018-05-07 23:25:31</sys_updated_on>
+        <value/>
+        <variable display_value="">273a6335531003003bf1d9109ec5876b</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>73a0abdbdbfd13403aa49646db96193c</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>jake.burman</sys_created_by>
+        <sys_created_on>2018-05-07 21:38:55</sys_created_on>
+        <sys_id>dedaa5f3dbb593403aa49646db961940</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jake.burman</sys_updated_by>
+        <sys_updated_on>2018-05-07 21:38:55</sys_updated_on>
+        <value>incident</value>
+        <variable display_value="">e73a6335531003003bf1d9109ec5875c</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=73a0abdbdbfd13403aa49646db96193c"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>field_values</field>
+        <id>73a0abdbdbfd13403aa49646db96193c</id>
+        <sys_created_by>jake.burman</sys_created_by>
+        <sys_created_on>2018-05-07 21:38:55</sys_created_on>
+        <sys_id>5edaa5f3dbb593403aa49646db961940</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>jake.burman</sys_updated_by>
+        <sys_updated_on>2018-05-07 23:25:31</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value>short_description=Outage for service  starting at ^description={{d6e6e0c8-0a40-4b99-84e7-94611f3c769d.cmdb_ci.name}} outage^work_start={{d6e6e0c8-0a40-4b99-84e7-94611f3c769d.outage_start}}^cmdb_ci=^assigned_to=</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>field_values</field>
+        <id>73a0abdbdbfd13403aa49646db96193c</id>
+        <sys_created_by>jake.burman</sys_created_by>
+        <sys_created_on>2018-05-06 16:56:48</sys_created_on>
+        <sys_id>84b0abdbdbfd13403aa49646db96195b</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>jake.burman</sys_updated_by>
+        <sys_updated_on>2018-05-08 00:14:10</sys_updated_on>
+        <table>var__m_sys_hub_action_input_3f9b1ff1531003003bf1d9109ec58775</table>
+        <value>short_description=Outage for service  starting at ^description= {{4fcb1969-dfbd-484b-8a40-3975b7efbda7.cmdb_ci.name}}outage^work_start={{4fcb1969-dfbd-484b-8a40-3975b7efbda7.outage_start}}^cmdb_ci={{4fcb1969-dfbd-484b-8a40-3975b7efbda7.cmdb_ci}}^assigned_to={{4fcb1969-dfbd-484b-8a40-3975b7efbda7.cmdb_ci.assignment_group}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>task_table</field>
+        <id>73a0abdbdbfd13403aa49646db96193c</id>
+        <sys_created_by>jake.burman</sys_created_by>
+        <sys_created_on>2018-05-07 21:38:55</sys_created_on>
+        <sys_id>9adaa5f3dbb593403aa49646db961940</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jake.burman</sys_updated_by>
+        <sys_updated_on>2018-05-07 21:38:55</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>task_table</field>
+        <id>73a0abdbdbfd13403aa49646db96193c</id>
+        <sys_created_by>jake.burman</sys_created_by>
+        <sys_created_on>2018-05-06 16:56:48</sys_created_on>
+        <sys_id>c0b0abdbdbfd13403aa49646db96195b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jake.burman</sys_updated_by>
+        <sys_updated_on>2018-05-06 16:56:48</sys_updated_on>
+        <table>var__m_sys_hub_action_input_3f9b1ff1531003003bf1d9109ec58775</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

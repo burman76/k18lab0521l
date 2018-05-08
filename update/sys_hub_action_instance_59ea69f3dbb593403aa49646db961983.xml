@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Look Up Records">ca07ee090b30030085c083eb37673afc</action_type>
+        <action_type_parent display_value="Look Up Records">d1c56ec50b30030085c083eb37673a50</action_type_parent>
+        <comment>Check for existing outages</comment>
+        <compiled_snapshot display_value="Look Up Records">ca07ee090b30030085c083eb37673afc</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Report an outage flow">a3dae5f3dbb593403aa49646db961979</flow>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>jake.burman</sys_created_by>
+        <sys_created_on>2018-05-07 21:39:08</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>59ea69f3dbb593403aa49646db961983</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="K18 LAB0521 London example" source="x_snc_k18lab0521l">971f4f93dbbd13403aa49646db961918</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="K18 LAB0521 London example">971f4f93dbbd13403aa49646db961918</sys_scope>
+        <sys_update_name>sys_hub_action_instance_59ea69f3dbb593403aa49646db961983</sys_update_name>
+        <sys_updated_by>jake.burman</sys_updated_by>
+        <sys_updated_on>2018-05-07 21:39:08</sys_updated_on>
+        <ui_id>21e28dfd-443e-4085-966c-acae24124a10</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=59ea69f3dbb593403aa49646db961983"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>59ea69f3dbb593403aa49646db961983</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>jake.burman</sys_created_by>
+        <sys_created_on>2018-05-07 21:39:08</sys_created_on>
+        <sys_id>95ea69f3dbb593403aa49646db961989</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jake.burman</sys_updated_by>
+        <sys_updated_on>2018-05-07 21:39:08</sys_updated_on>
+        <value>cmdb_ci_outage</value>
+        <variable display_value="">8a07ee090b30030085c083eb37673aff</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=59ea69f3dbb593403aa49646db961983"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>conditions</field>
+        <id>59ea69f3dbb593403aa49646db961983</id>
+        <sys_created_by>jake.burman</sys_created_by>
+        <sys_created_on>2018-05-07 21:39:08</sys_created_on>
+        <sys_id>51ea69f3dbb593403aa49646db961989</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jake.burman</sys_updated_by>
+        <sys_updated_on>2018-05-07 21:39:08</sys_updated_on>
+        <table>var__m_sys_hub_action_input_ca07ee090b30030085c083eb37673afc</table>
+        <value>cmdb_ci={{d6e6e0c8-0a40-4b99-84e7-94611f3c769d.cmdb_ci}}^endISEMPTY</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table</field>
+        <id>59ea69f3dbb593403aa49646db961983</id>
+        <sys_created_by>jake.burman</sys_created_by>
+        <sys_created_on>2018-05-07 21:39:08</sys_created_on>
+        <sys_id>15ea69f3dbb593403aa49646db961989</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jake.burman</sys_updated_by>
+        <sys_updated_on>2018-05-07 21:39:08</sys_updated_on>
+        <table>var__m_sys_hub_action_input_ca07ee090b30030085c083eb37673afc</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

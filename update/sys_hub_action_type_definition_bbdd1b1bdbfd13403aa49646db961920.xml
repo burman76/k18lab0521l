@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from>324425badbb99f003aa49646db96195a</copied_from>
+        <copied_from_name>Create an Outage record</copied_from_name>
+        <description>Create an outage record from a related task</description>
+        <internal_name>add_incident_to_existing_outage_record</internal_name>
+        <label_cache>[{"name":"{{action.task}}","label":"action➛task","type":"action","ref":"task"},{"name":"{{action.outage_record}}","label":"action➛Outage Record","type":"action","ref":"cmdb_ci_outage"}]</label_cache>
+        <latest_snapshot>f43edf1bdbfd13403aa49646db96197d</latest_snapshot>
+        <master_snapshot>663e535bdbfd13403aa49646db96193f</master_snapshot>
+        <name>Add Incident to Existing Outage record</name>
+        <outputs/>
+        <state>published</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>jake.burman</sys_created_by>
+        <sys_created_on>2018-05-06 16:44:30</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>bbdd1b1bdbfd13403aa49646db961920</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Add Incident to Existing Outage record</sys_name>
+        <sys_package display_value="K18 LAB0521 London example" source="x_snc_k18lab0521l">971f4f93dbbd13403aa49646db961918</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="K18 LAB0521 London example">971f4f93dbbd13403aa49646db961918</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_bbdd1b1bdbfd13403aa49646db961920</sys_update_name>
+        <sys_updated_by>jake.burman</sys_updated_by>
+        <sys_updated_on>2018-05-06 16:46:09</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_variable_value action="delete_multiple" query="document_key=bbdd1b1bdbfd13403aa49646db961920"/>
+</record_update>

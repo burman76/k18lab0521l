@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_stage">
+    <sys_hub_flow_stage action="INSERT_OR_UPDATE">
+        <always_show>false</always_show>
+        <ancestor_component_id/>
+        <ancestor_stage_id>1a015729-13db-40bf-8dd7-455b547dbcb3</ancestor_stage_id>
+        <component_indexes>5</component_indexes>
+        <duration>1970-01-01 00:00:00</duration>
+        <flow display_value="Report an outage flow">a3dae5f3dbb593403aa49646db961979</flow>
+        <label>Set current stage state to: &lt;strong&gt; [Error]&lt;/strong&gt;</label>
+        <order>0</order>
+        <stage_id>9e351d6a-c142-4bd2-9ed7-6be1cddc4569</stage_id>
+        <states>{"pending":"Pending - has not started","inprogress":"In progress","skipped":"Skipped","complete":"Completed","error":"Error"}</states>
+        <sys_class_name>sys_hub_flow_stage</sys_class_name>
+        <sys_created_by>jake.burman</sys_created_by>
+        <sys_created_on>2018-05-07 21:39:10</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>82ea69f3dbb593403aa49646db9619f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set current stage state to: &lt;strong&gt; [Error]&lt;/strong&gt;</sys_name>
+        <sys_package display_value="K18 LAB0521 London example" source="x_snc_k18lab0521l">971f4f93dbbd13403aa49646db961918</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="K18 LAB0521 London example">971f4f93dbbd13403aa49646db961918</sys_scope>
+        <sys_update_name>sys_hub_flow_stage_82ea69f3dbb593403aa49646db9619f7</sys_update_name>
+        <sys_updated_by>jake.burman</sys_updated_by>
+        <sys_updated_on>2018-05-07 21:39:10</sys_updated_on>
+        <type>error</type>
+        <value>Set current stage state to: &lt;strong&gt; [Error]&lt;/strong&gt;</value>
+    </sys_hub_flow_stage>
+</record_update>

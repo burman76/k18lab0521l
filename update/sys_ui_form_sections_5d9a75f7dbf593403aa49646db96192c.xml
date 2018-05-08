@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="5d9a75f7dbf593403aa49646db96192c" sys_domain="global" table="sc_cat_item_producer" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>jake.burman</sys_created_by>
+            <sys_created_on>2018-05-07 22:47:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ad9af9f7dbf593403aa49646db96194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sc_cat_item_producer" name="sc_cat_item_producer" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">5d9a75f7dbf593403aa49646db96192c</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="sc_cat_item_producer" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ad9a75f7dbf593403aa49646db96192f</sys_ui_section>
+            <sys_updated_by>jake.burman</sys_updated_by>
+            <sys_updated_on>2018-05-07 22:47:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>jake.burman</sys_created_by>
+            <sys_created_on>2018-05-07 22:47:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>699af9f7dbf593403aa49646db96194d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sc_cat_item_producer" name="sc_cat_item_producer" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">5d9a75f7dbf593403aa49646db96192c</sys_ui_form>
+            <sys_ui_section caption="Mobile" display_value="Mobile" name="sc_cat_item_producer" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">a99af9f7dbf593403aa49646db96194b</sys_ui_section>
+            <sys_updated_by>jake.burman</sys_updated_by>
+            <sys_updated_on>2018-05-07 22:47:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sc_cat_item_producer</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>jake.burman</sys_created_by>
+            <sys_created_on>2018-05-07 22:47:40</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5d9a75f7dbf593403aa49646db96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sc_cat_item_producer</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="K18 LAB0521 London example" source="x_snc_k18lab0521l">971f4f93dbbd13403aa49646db961918</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="K18 LAB0521 London example">971f4f93dbbd13403aa49646db961918</sys_scope>
+            <sys_update_name>sys_ui_form_sections_5d9a75f7dbf593403aa49646db96192c</sys_update_name>
+            <sys_updated_by>jake.burman</sys_updated_by>
+            <sys_updated_on>2018-05-07 22:47:40</sys_updated_on>
+            <sys_user/>
+            <view display_value="Advanced" name="advanced">7966be310a0a0b8c00bd504090503227</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

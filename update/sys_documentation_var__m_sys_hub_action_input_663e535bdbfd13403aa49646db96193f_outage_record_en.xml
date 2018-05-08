@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="outage_record" label="Outage Record" language="en" table="var__m_sys_hub_action_input_663e535bdbfd13403aa49646db96193f">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>outage_record</element>
+            <help/>
+            <hint/>
+            <label>Outage Record</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_663e535bdbfd13403aa49646db96193f</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jake.burman</sys_created_by>
+            <sys_created_on>2018-05-06 16:46:06</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>973e535bdbfd13403aa49646db9619d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Outage Record</sys_name>
+            <sys_package display_value="K18 LAB0521 London example" source="x_snc_k18lab0521l">971f4f93dbbd13403aa49646db961918</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="K18 LAB0521 London example">971f4f93dbbd13403aa49646db961918</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_input_663e535bdbfd13403aa49646db96193f_outage_record_en</sys_update_name>
+            <sys_updated_by>jake.burman</sys_updated_by>
+            <sys_updated_on>2018-05-06 16:46:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
